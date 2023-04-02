@@ -379,9 +379,12 @@ body {
 
 
 /**----------CUSTOMERS----------*/
-.customers-cont {
+
+.customers-sections {
     padding-top: 130px;
     padding-bottom: 120px;
+}
+.customers-cont {
 }
 
 .customers-title {
